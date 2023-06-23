@@ -45,7 +45,7 @@
 # Starter Milestone
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XJPtsFAbf1M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-**My starter project was TV-B-Gone. All the part were assembled onto a perf board whioch was powered by 
+My starter project was TV-B-Gone. All the parts were soldered onto a perf board which was powered by two double AA batteries. All the code the device needed to work was stored in a microcontroller. The way the project worked was first a button would be clicked, that would let the microcontroller know that it had to tell the transistors, which control the IR LED lights, to turn the LEDs on. Then the IR lights in the front of the device would flash in different ways because TVs turn off to different signals, so to be able to turn off any TV the IR lights would have to flash in different ways. This would be indicated by a smaller LED in the back of the device. I enjoyed learning how to solder components to the perf board and learning what each part does. Something I struggled with while building was soldering the small parts because of the precision required and finding the problem with certain parts.
 
 
 
