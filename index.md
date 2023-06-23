@@ -6,7 +6,7 @@
 | Arnav B | Mission San Jose Highschool | Electrical Engineering and CS | Incoming Freshman
 
 <!--**Replace the BlueStamp logo below with an image of yourself and your completed project. Follow the guide [here](https://tomcam.github.io/least-github-pages/adding-images-github-pages-site.html) if you need help.**!-->
-<iframe width="315" height="560" src=![Arnav-B-Headshot](https://github.com/arnavb231/arnavb_BSE_Portfolio/assets/114638407/e26744ca-1bd6-4e6d-8b65-dbff38cf0918)
+<iframe width="35" height="56" src=![Arnav-B-Headshot](https://github.com/arnavb231/arnavb_BSE_Portfolio/assets/114638407/e26744ca-1bd6-4e6d-8b65-dbff38cf0918)
 
 ![Headstone Image](logo.svg)
   
