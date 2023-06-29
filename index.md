@@ -55,7 +55,6 @@ My starter project was TV-B-Gone. All the parts were soldered onto a perf board 
 
 
 # Schematics 
-![4712281497702040670 (1)](https://github.com/arnavb231/arnavb_BSE_Portfolio/assets/114638407/7a27e505-7479-4f56-bc29-7159ee5fae07)
 
 <!---Here's where you'll put images of your schematics. [Tinkercad](https://www.tinkercad.com/blog/official-guide-to-tinkercad-circuits) and [Fritzing](https://fritzing.org/learning/) are both great resoruces to create professional schematic diagrams, though BSE recommends Tinkercad becuase it can be done easily and for free in the browser.-->
 
