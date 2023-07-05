@@ -37,13 +37,9 @@ My project is the Third Eye for the Blind. Its main objective is to help visuall
 
 # First Milestone
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FJMfOTjolzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-<!--For your first milestone, describe what your project is and how you plan to build it. You can include:
-- An explanation about the different components of your project and how they will all integrate together
-- Technical progress you've made so far
-- Challenges you're facing and solving in your future milestones
-- What your plan is to complete your project
 
-**Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**
+ My project is the third eye for the Blind. My first milestone was to connect and make my ultrasonic sensor work alongside my buzzer and LEDs. It works by the ultrasonic sensor sending out a wave through the Trig pin, which bounces off an object and would then be received again by the ultrasonic sensor through the Echo pin. It would then tell Arduino how far an object is based on what the ultrasonic sensor received, and through the code, the LEDs would turn on for a certain distance away from the object. Specifically, the red LED would turn on if the object was 15 or fewer cm away from the device, and the green one would turn on at any other distance in the ultrasonic sensor’s 400cm range. Additionally, the buzzer would beep a certain way if the ultrasonic sensor could sense anything signaling it was working, but it would make a long solid noise if the sensor couldn't sense anything. The main challenges I faced were the code which had many errors which caused the device not to work properly, and the breadboards which sometimes did not have good connections, which made some parts not correct with the Arduino. From this, I learned how to troubleshoot a lot better for the next part of my project, which would be to make the buzzer buzz louder when getting closer to an object,  start implementing the other features of my project like my vibration motors and a switch, and to begin duplicating it.
+
 
 <!--iframe width="560" height="315" src="https://www.youtube.com/embed/CaCazFBhYKs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe!-->
 # Starter Milestone
