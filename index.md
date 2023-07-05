@@ -1,5 +1,5 @@
 # Third Eye for the Blind
-My project is the Third Eye for the Blind. Its main objective is to help visually impaired people to help have an idea of their surroundings, acting as a working eye for them. It works through an ultrasonic sensor that senses the distance of objects, then through code, will let the person know how close they're getting to an object by either a noise or vibration. It was a fun project to make and could be useful in real life.
+My project is the Third Eye for the Blind. Its main objective is to help visually impaired people to help have an idea of their surroundings, acting as a working eye for them. It works through an ultrasonic sensor that senses the distance of objects, then through code, will let the person know how close they're getting to an object by either a noise or vibration. It was a fun project to do and could be useful in real life
 <!--Replace this text with a brief description (2-3 sentences) of your project. This description should draw the reader in and make them interested in what you've built. You can include what the biggest challenges, takeaways, and triumphs from completing the project were. As you complete your portfolio, remember your audience is less familiar than you are with all that your project entails! !-->
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
@@ -8,7 +8,7 @@ My project is the Third Eye for the Blind. Its main objective is to help visuall
 
 <!--**Replace the BlueStamp logo below with an image of yourself and your completed project. Follow the guide [here](https://tomcam.github.io/least-github-pages/adding-images-github-pages-site.html) if you need help.**!-->
 
-<img src="https://github.com/arnavb231/arnavb_BSE_Portfolio/assets/114638407/644b1686-d73e-4a32-b26f-601aac8dc901" width="25%" height="25%">
+<img src="https://github.com/arnavb231/arnavb_BSE_Portfolio/assets/114638407/644b1686-d73e-4a32-b26f-601aac8dc901" width="50%" height="50%">
 
 
 <!---![Headstone Image](logo.svg)
