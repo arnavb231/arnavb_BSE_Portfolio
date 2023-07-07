@@ -8,7 +8,7 @@ My project is the Third Eye for the Blind. Its main objective is to help visuall
 
 <!--**Replace the BlueStamp logo below with an image of yourself and your completed project. Follow the guide [here](https://tomcam.github.io/least-github-pages/adding-images-github-pages-site.html) if you need help.**!-->
 
-<img src="https://github.com/arnavb231/arnavb_BSE_Portfolio/assets/114638407/644b1686-d73e-4a32-b26f-601aac8dc901" width="80%" height="80%">
+<img src="https://github.com/arnavb231/arnavb_BSE_Portfolio/assets/114638407/644b1686-d73e-4a32-b26f-601aac8dc901" width="50%" height="50%">
 
 
 <!---![Headstone Image](logo.svg)
@@ -52,7 +52,7 @@ My starter project was TV-B-Gone. All the parts were soldered onto a perf board 
 
 # Schematics 
 
-<img src="https://github.com/arnavb231/arnavb_BSE_Portfolio/assets/114638407/e9cb2f57-a15c-4b7a-9d89-b5c5cdd78cff" width="50%" height="50%">
+<img src="https://github.com/arnavb231/arnavb_BSE_Portfolio/assets/114638407/e9cb2f57-a15c-4b7a-9d89-b5c5cdd78cff" width="70%" height="70%">
 
 <!---Here's where you'll put images of your schematics. [Tinkercad](https://www.tinkercad.com/blog/official-guide-to-tinkercad-circuits) and [Fritzing](https://fritzing.org/learning/) are both great resoruces to create professional schematic diagrams, though BSE recommends Tinkercad becuase it can be done easily and for free in the browser.-->
 
