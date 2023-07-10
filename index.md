@@ -25,7 +25,8 @@ My project is the Third Eye for the Blind. Its main objective is to help visuall
 
 <!--iframe width="560" height="315" src="https://www.youtube.com/embed/F7M7imOVGug" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe!-->
 
-<!---# Second Milestone
+# Second Milestone
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AxO99hXYjkE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 <!--For your second milestone, explain what you've worked on since your previous milestone. You can highlight:
 - Technical details of what you've accomplished and how they contribute to the final goal
 - What has been surprising about the project so far
