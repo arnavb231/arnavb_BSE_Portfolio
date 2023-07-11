@@ -113,12 +113,10 @@ Don't forget to place the link of where to buy each component inside the quotati
 
 | **Part** | **Note** | **Price** | **Link** |
 |:--:|:--:|:--:|:--:|
-| Arduino Nano Every | It is the microcontroller board for the project | $13.70 | <a href="https://store-usa.arduino.cc/products/arduino-nano-every/"> </a> |
-|:--:|:--:|:--:|:--:|
-| Arduino Nano | It is the microcontroller board for the project | $24.90 | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
-|:--:|:--:|:--:|:--:|
+| Arduino Nano Every | It is the microcontroller board for the project | $13.70 | <a href="https://store-usa.arduino.cc/products/arduino-nano-every/"> Link </a> |
+| Arduino Nano | It is the microcontroller board for the project | $24.90 | <a href="https://store-usa.arduino.cc/products/arduino-nano/"> Link </a> |
 | Item Name | What the item is used for | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
-|:--:|:--:|:--:|:--:|-->
+
 
 <!---# Other Resources/Examples-->
 <!---One of the best parts about Github is that you can view how other people set up their own work. Here are some past BSE portfolios that are awesome examples. You can view how they set up their portfolio, and you can view their index.md files to understand how they implemented different portfolio components.
