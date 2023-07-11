@@ -52,20 +52,58 @@ My starter project was TV-B-Gone. All the parts were soldered onto a perf board 
 
 <!---Here's where you'll put images of your schematics. [Tinkercad](https://www.tinkercad.com/blog/official-guide-to-tinkercad-circuits) and [Fritzing](https://fritzing.org/learning/) are both great resoruces to create professional schematic diagrams, though BSE recommends Tinkercad becuase it can be done easily and for free in the browser.-->
 
-<!----# Code
-<!--Here's where you'll put your code. The syntax below places it into a block of code. Follow the guide [here]([url](https://www.markdownguide.org/extended-syntax/)) to learn how to customize it to your project needs.-->
+# Code
 
-<!---```c++
-void setup() {
-  // put your setup code here, to run once:
-  Serial.begin(9600);
-  Serial.println("Hello World!");
-}
-
-void loop() {
-  // put your main code here, to run repeatedly:
-
-}
+<!-```c++
+  const int pingTrigPin = 13; //Trigger connected to PIN 12  
+  const int pingEchoPin = 14; //Echo connected to PIN 10  
+  #define led 6
+  int buzz = 3; //Buzzer to PIN 3
+  int vMotor = 4; //Vibration Motor to PIN 4 
+  void setup() {   
+  Serial.begin(9600);   
+  pinMode(buzz, OUTPUT); 
+  pinMode(vMotor, OUTPUT); 
+  pinMode(led, OUTPUT);
+  }   
+  void loop()   
+  {   
+  long duration, cm;   
+  pinMode(pingTrigPin, OUTPUT);   
+  digitalWrite(pingTrigPin, LOW);   
+  delayMicroseconds(2);   
+  digitalWrite(pingTrigPin, HIGH);   
+  delayMicroseconds(5);   
+  digitalWrite(pingTrigPin, LOW);   
+  pinMode(pingEchoPin, INPUT);   
+  duration = pulseIn(pingEchoPin, HIGH);   
+  cm = microsecondsToCentimeters(duration);   
+  if(cm<=50 && cm>0)   
+  {   
+  int d= map(cm, 1, 100, 20, 2000);   
+  int pch = 4000; 
+  tone(buzz, pch);
+  delay(d);
+  noTone(buzz);    
+  delay(d);
+  tone(vMotor, LOW);
+  delay(d);
+  noTone(vMotor);
+  delay(d);
+  tone(vMotor, HIGH); 
+  digitalWrite(led, LOW);
+  delay(d/2);
+  digitalWrite(led, HIGH);
+  }   
+  Serial.print(cm);    
+  Serial.print("cm");   
+  Serial.println();   
+  delay(100);   
+  }   
+  long microsecondsToCentimeters(long microseconds)   
+  {   
+  return microseconds / 29 / 2;   
+  } 
 ```
 
 # Bill of Materials
