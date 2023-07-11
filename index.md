@@ -54,7 +54,7 @@ My starter project was TV-B-Gone. All the parts were soldered onto a perf board 
 
 # Code
 
-<!-```c++
+```c++
   const int pingTrigPin = 13; //Trigger connected to PIN 12  
   const int pingEchoPin = 14; //Echo connected to PIN 10  
   #define led 6
