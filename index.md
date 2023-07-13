@@ -1,4 +1,4 @@
-# Third Eye for the Blind
+ # Third Eye for the Blind
 
 My project is the Third Eye for the Blind. Its main objective is to help visually impaired people help have an idea of their surroundings, acting as a working eye for them. It works through an ultrasonic sensor that senses the distance of objects, then through code, will let the person know how close they're getting to an object by either a noise or vibration. This device would not only improve the quality of life for visually impaired individuals but also open up new opportunities for them to explore the world around them.
 <!--Replace this text with a brief description (2-3 sentences) of your project. This description should draw the reader in and make them interested in what you've built. You can include what the biggest challenges, takeaways, and triumphs from completing the project were. As you complete your portfolio, remember your audience is less familiar than you are with all that your project entails! !-->
@@ -55,15 +55,14 @@ My starter project was TV-B-Gone. All the parts were soldered onto a perf board 
 # Code
 
 ```c++
+
   const int pingTrigPin = 13; //Trigger connected to PIN 12  
   const int pingEchoPin = 14; //Echo connected to PIN 10  
   #define led 6
   int buzz = 3; //Buzzer to PIN 3
-  int vMotor = 4; //Vibration Motor to PIN 4 
   void setup() {   
   Serial.begin(9600);   
   pinMode(buzz, OUTPUT); 
-  pinMode(vMotor, OUTPUT); 
   pinMode(led, OUTPUT);
   }   
   void loop()   
@@ -85,14 +84,9 @@ My starter project was TV-B-Gone. All the parts were soldered onto a perf board 
   tone(buzz, pch);
   delay(d);
   noTone(buzz);    
-  delay(d);
-  tone(vMotor, LOW);
-  delay(d);
-  noTone(vMotor);
-  delay(d);
-  tone(vMotor, HIGH); 
+  delay(d); 
   digitalWrite(led, LOW);
-  delay(d/2);
+  delay(d);
   digitalWrite(led, HIGH);
   }   
   Serial.print(cm);    
@@ -103,7 +97,7 @@ My starter project was TV-B-Gone. All the parts were soldered onto a perf board 
   long microsecondsToCentimeters(long microseconds)   
   {   
   return microseconds / 29 / 2;   
-  } 
+  }  
 ```
 
 
