@@ -106,7 +106,7 @@ My starter project was TV-B-Gone. All the parts were soldered onto a perf board 
   } 
 ```
 
-<!-
+
 # Bill of Materials
 <!---Here's where you'll list the parts in your project. To add more rows, just copy and paste the example rows below.
 Don't forget to place the link of where to buy each component inside the quotation marks in the corresponding row after href =. Follow the guide [here]([url](https://www.markdownguide.org/extended-syntax/)) to learn how to customize this to your project needs.-->
@@ -115,7 +115,11 @@ Don't forget to place the link of where to buy each component inside the quotati
 |:--:|:--:|:--:|:--:|
 | Arduino Nano Every | It is the microcontroller board for the project | $13.70 | <a href="https://store-usa.arduino.cc/products/arduino-nano-every/"> Link </a> |
 | Arduino Nano | It is the microcontroller board for the project | $24.90 | <a href="https://store-usa.arduino.cc/products/arduino-nano/"> Link </a> |
-| Item Name | What the item is used for | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
+| 2 Ultrasonic Sensors | These devices look for the distance of objects | $9.19(for 5) | <a href="https://www.amazon.com/HiLetgo-HC-SR04-Ultrasonic-Distance-MEGA2560/dp/B00E87VXH0/ref=sr_1_4?crid=C7QH3O2MI588&keywords=hcsr04+ultrasonic+sensor&qid=1689190342&sprefix=ultrasonic+sensor+hc%2Caps%2C229&sr=8-4/"> Link </a> |
+| 2 Buzzer | These devices make a buzzing noise  | $7.28(for 10) | <a href="https://www.amazon.com/Gikfun-Terminals-Passive-Electronic-Arduino/dp/B01GJLE5BS/ref=sr_1_2_sspa?crid=2DHWNU6FUR4VO&keywords=buzzer+for+arduino&qid=1689190503&sprefix=buzzer+for+arduino%2Caps%2C222&sr=8-2-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1/"> Link 
+| 2 Vibration Motor | These devices rotate at high speeds causing a vibration effect | $17.99(for 15) | <a href="https://www.amazon.com/BestTong-Miniature-Vibrating-Vibration-Coreless/dp/B073NGPHDR/ref=sr_1_3_sspa?crid=3RU4WULUPY8KL&keywords=vibration+motors&qid=1689190876&sprefix=vibration+motor%2Caps%2C165&sr=8-3-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1/"> Link 
+
+
 
 
 <!---# Other Resources/Examples-->
