@@ -12,18 +12,9 @@ My project is the Third Eye for the Blind. Its main objective is to help visuall
 <img src="https://github.com/arnavb231/arnavb_BSE_Portfolio/assets/114638407/644b1686-d73e-4a32-b26f-601aac8dc901" width="50%" height="50%">
 
 
-<!---![Headstone Image](logo.svg)
   
-<!---# Final Milestone
-<!--For your final milestone, explain the outcome of your project. Key details to include are:
-- What you've accomplished since your previous milestone
-- What your biggest challenges and triumphs were at BSE
-- A summary of key topics you learned about
-- What you hope to learn in the future after everything you've learned at BSE
-
-**Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**
-
-<!---iframe width="560" height="315" src="https://www.youtube.com/embed/F7M7imOVGug" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe!--->
+# Third Milestone
+<iframe width="560" height="315" src="https://www.youtube.com/embed/28ylkUqHDpI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 # Second Milestone
 <iframe width="560" height="315" src="https://www.youtube.com/embed/AxO99hXYjkE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
