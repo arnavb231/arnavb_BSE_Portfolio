@@ -1,13 +1,13 @@
- Third Eye for the Blind
+# Third Eye for the Blind
 
 My project is the Third Eye for the Blind. Its main objective is to help visually impaired people help have an idea of their surroundings, acting as a working eye for them. It works through an ultrasonic sensor that senses the distance of objects, then through code, will let the person know how close they're getting to an object by either a noise or vibration. This device would not only improve the quality of life for visually impaired individuals but also open up new opportunities for them to explore the world around them.
 <!--Replace this text with a brief description (2-3 sentences) of your project. This description should draw the reader in and make them interested in what you've built. You can include what the biggest challenges, takeaways, and triumphs from completing the project were. As you complete your portfolio, remember your audience is less familiar than you are with all that your project entails! !-->
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
-| Arnav B | Mission San Jose Highschool | Electrical Engineering and CS | Incoming Freshman
+| Arnav B | Mission San Jose Highschool | Electrical Engineering and Computer Science | Incoming Freshman
 
-<!--**Replace the BlueStamp logo below with an image of yourself and your completed project. Follow the guide [here](https://tomcam.github.io/least-github-pages/adding-images-github-pages-site.html) if you need help.**!-->
+
 
 <img src="https://github.com/arnavb231/arnavb_BSE_Portfolio/assets/114638407/644b1686-d73e-4a32-b26f-601aac8dc901" width="50%" height="50%">
 
@@ -108,7 +108,9 @@ Don't forget to place the link of where to buy each component inside the quotati
 | Header Pins | A socket to place importants parts so they don't touch the board | $12.78(for a boz with 120) | <a href="https://www.amazon.com/Glarks-Straight-Connector-Assortment-Prototype/dp/B076GZXW3Z/ref=sr_1_1_sspa?crid=FTDP4J35R1H7&keywords=header+pins&qid=1689700837&s=industrial&sprefix=header+pins%2Cindustrial%2C160&sr=1-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1/"> Link </a> |
 | Perfboard | A board to solder all connection for the device | $8.49 | <a href="https://www.amazon.com/10-Pieces-Perfboard-Universal-Stripboard-Prototyping/dp/B019Q14GRQ/ref=sxin_16_pa_sp_search_thematic_sspa?content-id=amzn1.sym.1c86ab1a-a73c-4131-85f1-15bd92ae152d%3Aamzn1.sym.1c86ab1a-a73c-4131-85f1-15bd92ae152d&crid=1S4CV20I5EFC3&cv_ct_cx=perfboards&keywords=perfboards&pd_rd_i=B019Q14GRQ&pd_rd_r=19b77302-1506-498a-856c-9ac68f269a3f&pd_rd_w=px6Ct&pd_rd_wg=Fef3A&pf_rd_p=1c86ab1a-a73c-4131-85f1-15bd92ae152d&pf_rd_r=4277GF1B8GMA45HQBE0S&qid=1689701179&s=industrial&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&sprefix=perfboard%2Cindustrial%2C161&sr=1-3-364cf978-ce2a-480a-9bb0-bdb96faa0f61-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9zZWFyY2hfdGhlbWF0aWM&psc=1/"> Link </a> |
 | Solid-Core Wire | Used for making connections between parts | $6.86(for 25ft spool) | <a href="https://www.amazon.com/Adafruit-Solid-Core-Wire-Spool-ADA290/dp/B00KAE3NTQ/ref=sr_1_7?crid=2QI4ZH6KTWJUD&keywords=solid+core+wire&qid=1689701288&s=industrial&sprefix=solidcore+wire%2Cindustrial%2C167&sr=1-7/"> Link </a> |
-
+| Tape| can be uses for holding wires or making a strap | $6.99(for 2 rolls) | <a href="https://www.amazon.com/LICHAMP-Masking-General-Purpose-Beige/dp/B08T6186TG/ref=sr_1_5?crid=3TMYB8XPQQHYV&keywords=masking+tape&qid=1689703358&s=industrial&sprefix=masking+tape%2Cindustrial%2C200&sr=1-5/"> Link </a> |
+| Velcro | Used to stick parts together or can be used in strap for hand | $9.99 | <a href="https://www.amazon.com/Melsan-inch-Hook-Loop-Tape/dp/B07Y3VDPLF/ref=sr_1_2_sspa?crid=BZNUU40E2GXU&keywords=velcro&qid=1689703447&s=industrial&sprefix=velcro%2Cindustrial%2C160&sr=1-2-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1/"> Link </a> |
+| Jumper Cables | Can connect header pins to other devices | $6.98 | <a href="<a href="https://www.amazon.com/Melsan-inch-Hook-Loop-Tape/dp/B07Y3VDPLF/ref=sr_1_2_sspa?crid=BZNUU40E2GXU&keywords=velcro&qid=1689703447&s=industrial&sprefix=velcro%2Cindustrial%2C160&sr=1-2-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1/"> Link </a> |
 
 
 
