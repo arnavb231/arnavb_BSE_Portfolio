@@ -47,10 +47,10 @@ My starter project was TV-B-Gone. All the parts were soldered onto a perf board 
 
 ```c++
 
-  const int pingTrigPin = 13; //Trigger connected to PIN 12  
-  const int pingEchoPin = 14; //Echo connected to PIN 10  
-  #define led 6
-  int buzz = 3; //Buzzer to PIN 3
+  const int pingTrigPin = 19; //Trigger connected to PIN A5  
+  const int pingEchoPin = 16; //Echo connected to PIN A3  
+  #define led 7 // LED to PIN D7
+  int buzz = 9; //Buzzer to PIN D9
   void setup() {   
   Serial.begin(9600);   
   pinMode(buzz, OUTPUT); 
@@ -88,7 +88,7 @@ My starter project was TV-B-Gone. All the parts were soldered onto a perf board 
   long microsecondsToCentimeters(long microseconds)   
   {   
   return microseconds / 29 / 2;   
-  }  
+  }   
 ```
 
 
