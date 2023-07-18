@@ -50,7 +50,7 @@ My starter project was TV-B-Gone. All the parts were soldered onto a perf board 
   const int pingTrigPin = 19; //Trigger connected to PIN A5  
   const int pingEchoPin = 16; //Echo connected to PIN A3  
   #define led 7 // LED to PIN D7
-  int buzz = 9; //Buzzer to PIN D9
+  int buzz = 9; //Buzzer & Vibration Motor to PIN D9
   void setup() {   
   Serial.begin(9600);   
   pinMode(buzz, OUTPUT); 
