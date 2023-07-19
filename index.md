@@ -110,7 +110,7 @@ Don't forget to place the link of where to buy each component inside the quotati
 | Solid-Core Wire | Used for making connections between parts | $6.86(for 25ft spool) | <a href="https://www.amazon.com/Adafruit-Solid-Core-Wire-Spool-ADA290/dp/B00KAE3NTQ/ref=sr_1_7?crid=2QI4ZH6KTWJUD&keywords=solid+core+wire&qid=1689701288&s=industrial&sprefix=solidcore+wire%2Cindustrial%2C167&sr=1-7/"> Link </a> |
 | Tape| can be uses for holding wires or making a strap | $6.99(for 2 rolls) | <a href="https://www.amazon.com/LICHAMP-Masking-General-Purpose-Beige/dp/B08T6186TG/ref=sr_1_5?crid=3TMYB8XPQQHYV&keywords=masking+tape&qid=1689703358&s=industrial&sprefix=masking+tape%2Cindustrial%2C200&sr=1-5/"> Link </a> |
 | Velcro | Used to stick parts together or can be used in strap for hand | $9.99 | <a href="https://www.amazon.com/Melsan-inch-Hook-Loop-Tape/dp/B07Y3VDPLF/ref=sr_1_2_sspa?crid=BZNUU40E2GXU&keywords=velcro&qid=1689703447&s=industrial&sprefix=velcro%2Cindustrial%2C160&sr=1-2-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1/"> Link </a> |
-| Jumper Cables | Can connect header pins to other devices | $6.98 | <a href="<a href="https://www.amazon.com/Melsan-inch-Hook-Loop-Tape/dp/B07Y3VDPLF/ref=sr_1_2_sspa?crid=BZNUU40E2GXU&keywords=velcro&qid=1689703447&s=industrial&sprefix=velcro%2Cindustrial%2C160&sr=1-2-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1/"> Link </a> |
+| Jumper Cables | Can connect header pins to other devices | $6.98 | <a href="https://www.amazon.com/Melsan-inch-Hook-Loop-Tape/dp/B07Y3VDPLF/ref=sr_1_2_sspa?crid=BZNUU40E2GXU&keywords=velcro&qid=1689703447&s=industrial&sprefix=velcro%2Cindustrial%2C160&sr=1-2-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1/"> Link </a> |
 
 
 
