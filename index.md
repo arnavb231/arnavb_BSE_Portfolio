@@ -9,7 +9,9 @@ My project is the Third Eye for the Blind. Its main objective is to help visuall
 
 
 
-<img src="https://github.com/arnavb231/arnavb_BSE_Portfolio/assets/114638407/644b1686-d73e-4a32-b26f-601aac8dc901" width="50%" height="50%">
+<img src="https://github.com/arnavb231/arnavb_BSE_Portfolio/assets/114638407/07f91db5-203b-48ae-8f78-b2569310af4e" width="50%" height="50%">
+
+
 
 
   
