@@ -50,7 +50,6 @@ My starter project was TV-B-Gone. All the parts were soldered onto a perf board 
 <img src="https://github.com/arnavb231/arnavb_BSE_Portfolio/assets/114638407/e9cb2f57-a15c-4b7a-9d89-b5c5cdd78cff" width="70%" height="70%">
 
 
-https://github.com/arnavb231/arnavb_BSE_Portfolio/assets/114638407/c840dafd-5256-4845-84fb-3818818149d1
 
 
 
